@@ -1,0 +1,16 @@
+BEST BUY CANADA — PRODUCT AVAILABILITY AND STORE PICKUP
+Source: https://www.bestbuy.ca/en-ca/help/holiday-shopping-at-best-buy/getting-your-gifts-in-time
+
+Purpose:
+Use for questions about whether a product is available for shipping or store pickup.
+
+Key facts:
+- Product pages show availability information for in-store pickup and shipping, along with an estimated delivery date when available.
+- Quick and Easy Store Pickup can be selected when offered for the product/location.
+- Best Buy sends an email confirming that a pickup order has been received.
+- If the expected pickup confirmation has not arrived, the customer should check their junk/spam folder and allow for processing time.
+- Availability is location and product dependent, so the chatbot should not invent stock levels that are not present in its knowledge base.
+
+Agent use:
+Primary: Product Agent.
+Potential collaboration: Order Agent when the customer has already placed a pickup order.

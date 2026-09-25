@@ -1,0 +1,19 @@
+BEST BUY CANADA — ORDER STATUS
+Source: https://www.bestbuy.ca/en-ca/help/your-order/checking-your-order-status
+
+Purpose:
+Use this document for questions about checking an online order and interpreting order-status messages.
+
+Key facts:
+- Customers signed into My Best Buy can open Order History, select Online, choose an order, and view its details/status.
+- Guest orders can be checked using the order number and the email address used for the purchase.
+- If an order has shipped, the customer can use the shipping carrier's tracking service.
+- "In Progress" means the order is being worked on.
+- "Shipped" means the order has left the warehouse.
+- "Cancelled" means the order was cancelled; Best Buy sends a cancellation email within 24 hours.
+- "On Hold" means Best Buy needs additional information before processing can continue.
+- Cancellation can occur for reasons such as stock issues, pricing/information errors, or quantity limits.
+
+Agent use:
+Primary: Order Agent
+Secondary: Manager for multi-domain questions.

@@ -1,0 +1,17 @@
+BEST BUY CANADA — DEFECTIVE PRODUCTS
+Source: https://www.bestbuy.ca/en-ca/help/returns-and-exchanges/returning-or-exchanging-a-best-buy-product/returning-or-exchanging-a-defective-item
+
+Purpose:
+Use for products that are not working correctly or develop a problem after purchase.
+
+Key facts:
+- Best Buy provides different options depending on when the product was purchased and, in some cases, the manufacturer.
+- The first step is to check the product's applicable return policy.
+- Defective products within the applicable standard return window may be eligible for return or exchange subject to policy conditions.
+- Outside the standard return window, the customer may need a different service or manufacturer-related path.
+- The answer should not assume that every defective product is automatically refundable.
+- The agent should ask for relevant details such as purchase timing, product type and whether it was sold by Best Buy or a Marketplace seller when those facts affect eligibility.
+
+Agent use:
+Primary: Returns & Support Agent.
+Potential collaboration: Product Agent for product/service context.

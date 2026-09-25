@@ -1,0 +1,29 @@
+BEST BUY CANADA — PAYMENT METHODS
+Source: https://www.bestbuy.ca/en-ca/help/paying-and-purchasing/payment-methods
+
+Purpose:
+Use for questions about accepted payment methods.
+
+Key facts:
+Online BestBuy.ca orders can be paid using:
+- Visa
+- Visa Debit
+- MasterCard
+- American Express
+- PayPal
+- Best Buy Gift Card
+- Best Buy Financing with Fairstone
+
+In-store payment options include:
+- Cash
+- Debit
+- Visa
+- MasterCard
+- American Express
+- Best Buy Gift Card
+- Best Buy Financing with Fairstone
+- Monthly Subscription
+
+Agent use:
+Primary: Payment Agent.
+For a payment-status or charged-but-cancelled scenario, combine with the Order Agent.

@@ -1,0 +1,17 @@
+BEST BUY CANADA — CANCELLING OR EDITING AN ORDER
+Source: https://www.bestbuy.ca/en-ca/help/blt360a5b0c3e71ae9d/blt59bbf385432f61c8
+
+Purpose:
+Use for order cancellation and order-edit questions.
+
+Key facts:
+- Online orders have a limited cancellation window.
+- If a Cancel Order button is available in the order details, the customer can use it to request cancellation.
+- If the button is no longer available, the order is already being processed and cannot normally be cancelled; the customer can use the return process after receiving the product.
+- Large-item scheduled deliveries may have special cancellation/change options before the scheduled delivery.
+- For Quick and Easy Store Pickup, an order may be cancelled online before the pickup confirmation; an uncollected confirmed pickup can also be automatically cancelled after the stated hold period.
+- Customers generally cannot add/remove individual items from an online order; cancelling and placing a new order may be required.
+- Payment information may be editable while the order has not entered processing.
+
+Agent use:
+Primary: Order Agent.

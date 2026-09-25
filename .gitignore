@@ -1,0 +1,21 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# DeepEval
+.deepeval/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
