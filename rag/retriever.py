@@ -4,7 +4,7 @@ from langchain_community.vectorstores import FAISS
 
 from rag.embeddings import get_embeddings
 from rag.reranker import rerank
-from rag.evaluation_trace import record_retrieval
+
 
 
 VECTOR_DB_DIR = Path("vector_db")
@@ -61,11 +61,5 @@ def search(
         results,
         top_k=k,
     )
-
-    record_retrieval(
-       query=query,
-       domain=domain,
-       documents=final_results,
-)
 
     return final_results
